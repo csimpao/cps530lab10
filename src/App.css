@@ -3,10 +3,12 @@
 }
 
 .App > h1 {
+  font-weight: bold;
   color: red;
 }
 
 .App > h2 {
+  font-weight: bold;
   color: purple;
 }
 
