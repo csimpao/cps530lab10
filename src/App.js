@@ -12,6 +12,9 @@ function App() {
       <p>Then, I used Vercel as my host, in order to run the app with React</p>
 
       <h2>Building the Page with React</h2>
+
+      <p>In order to actually build the webpage into this for lab, I had to delete everything within the div element</p>
+      <p>I also had to delete everything in the App.css file, except for the .App attribute</p>
     </div>
   );
 }
