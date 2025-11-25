@@ -4,21 +4,14 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Hello World!!! I am using React for CPS530 Lab 10 from Carlos!!
-        </a>
-      </header>
-      Hi Again!!
+      <h1>Problem 2: Frameworks</h1>
+
+      <h2>Installation + Setup</h2>
+      <ol>
+        <li>Since I have a Mac, React is already installed</li>
+        <li>I had to create a React app in order to do this lab: npx create-react-app 530lab10</li>
+        <li>Then, I used Vercel as my host, in order to run the app with React</li>
+      </ol>
     </div>
   );
 }
