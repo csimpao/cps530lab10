@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello World!!! I am using React for CPS530 Lab 10!!
         </a>
       </header>
     </div>
