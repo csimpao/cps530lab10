@@ -15,9 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello World!!! I am using React for CPS530 Lab 10!!
+          Hello World!!! I am using React for CPS530 Lab 10 from Carlos!!
         </a>
       </header>
+      Hi Again!!
     </div>
   );
 }
